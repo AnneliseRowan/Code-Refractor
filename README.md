@@ -14,6 +14,6 @@ THEN I find a concise, descriptive title
 
 And should look something like this: 
 
-![](images/screencapture-file-C-Users-19043-Dropbox-My-PC-DESKTOP-V2B35R4-Desktop-Bootcamp-homework1-Index-html-2021-03-27-15_14_14.png)
+![](images/screencapture-file-C-Users-19043-Dropbox-My-PC-DESKTOP-V2B35R4-Desktop-Bootcamp-homework1-Code-Refractor-Index-html-2021-03-28-14_06_01.png)
 
 
