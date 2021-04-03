@@ -1,16 +1,6 @@
 A marketing agency has hired me to refractor this code to make it more accessible. It needs to meet the following criteria: 
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+There should be semantic elements throughout the code. The structure of the HTML should be logical in both styling and positioning. The image elements should have accessible and descriptive alt attributes. The heading attributes should fall in sequential order, as well as, the title elements being concise and descriptive. The CSS needs to be combined so as to not be so repetitive. 
 
 And should look something like this: 
 
